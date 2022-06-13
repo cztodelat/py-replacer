@@ -1,0 +1,3 @@
+https://pymongo.readthedocs.io/en/stable/api/bson/json_util.html
+https://stackoverflow.com/questions/16586180/typeerror-objectid-is-not-json-serializable
+https://pymongo.readthedocs.io/en/stable/tutorial.html
